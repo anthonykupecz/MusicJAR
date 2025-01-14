@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Starter code for backend cis400",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSharafuddin/Databases-Final.git"
+  },
+  "keywords": [
+    "groovy"
+  ],
+  "author": "Jonah, Anthony, Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanSharafuddin/Databases-Final/issues"
+  },
+  "homepage": "https://github.com/RyanSharafuddin/Databases-Final#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.16",
+    "mongoose-unique-validator": "^2.0.3",
+    "mysql": "^2.18.1"
+  }
+}
