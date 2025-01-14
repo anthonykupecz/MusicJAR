@@ -1,3 +1,6 @@
+# Note: 
+No commit history because this was a private repo (school purposes) under my teammates account.
+
 # Databases-Final
 Final project for the CIS 450 class at the University of Pennsylvania
 
